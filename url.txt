@@ -1,0 +1,6 @@
+ps2exe
+https://github.com/MScholtes/PS2EXE
+
+Image Magick for windows
+https://imagemagick.org/script/download.php#windows
+
